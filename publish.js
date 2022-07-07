@@ -1,13 +1,13 @@
 var emails = [
     'aicaoladizhi@gmail.com'
+    '爱操啦地址(拼音)加上谷歌邮箱后缀@gmail.com'
 ];
 var newestUrls = [
-    'https://hrbhssw.com',
-    'https://8doucai.com',
-    'https://jieshun1.com'
+    'https://aicaola.top',
+    'https://aicaola1.top',
+    'https://aicaola1.xyz'
 ];
 var otherUrls = [
-    'https://aicaola.com',
 	'https://aicaola.github.io'
 ];
 var foreverUrls = [
