@@ -70,16 +70,12 @@ window.onload = function () {
     mainElem.appendChild(newestFieldElem);
 
     // other urls
-    var otherFieldElem = createFieldElem({title: '请收藏地址发布页', items: otherUrls});
+    var otherFieldElem = createFieldElem({title: '请收藏永久地址发布页', items: otherUrls});
     mainElem.appendChild(otherFieldElem);
 
     // email
     var mailFieldElem = createFieldElem({title: '发送邮件获得最新地址', items: emails, plainText: true});
     mainElem.appendChild(mailFieldElem);
-
-    // forever urls
-    var foreverFieldElem = createFieldElem({title: '永久地址', items: foreverUrls});
-    mainElem.appendChild(foreverFieldElem);
 
     // Description
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
