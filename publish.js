@@ -8,7 +8,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
     'aicaoladizhi@gmail.com',
-	'爱操啦(拼音)加上谷歌邮箱后缀@gmail.com'
+	'爱操啦地址(拼音)加上谷歌邮箱后缀@gmail.com'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
