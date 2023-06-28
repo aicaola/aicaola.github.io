@@ -1,7 +1,7 @@
 var newestUrls = [
-    'https://aicaola.top',
-    'https://aicaola1.top',
-    'https://aicaola1.xyz'
+    'https://aicaola2.buzz',
+    'https://aicaola3.top',
+    'https://aicaola3.xyz'
 ];
 var otherUrls = [
 	'https://aicaola.github.io'
