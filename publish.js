@@ -1,7 +1,7 @@
 var newestUrls = [
-    'https://peizisky.cc',
-    'https://aicaola.klxqr.cc',
-    'https://aicaola.xztds.cyou'
+    'https://aicaola.hladl.com',
+    'https://aicaola.qzxfhhmm.com',
+    'http://aicaola.zhccylm.org'
 ];
 var otherUrls = [
 	'https://aicaola.github.io'
