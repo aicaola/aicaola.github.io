@@ -1,6 +1,7 @@
 var newestUrls = [
     'https://aicaola.hladl.com',
     'https://aicaola.qzxfhhmm.com',
+    'https://aicaola.zhccylm.org',
     'http://aicaola.kerpus.com'
 ];
 var otherUrls = [
