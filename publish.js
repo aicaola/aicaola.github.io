@@ -2,7 +2,10 @@ var newestUrls = [
     'https://z4531.com/mian.html',
     'https://zlbqw.com/mian.html',
     'https://www.microspc.com/mian.html',
-    'https://2sja.com/mian.html',
+    'https://anobimedia.com/mian.html',
+    'https://ac-nebraska.com/mian.html',
+    'https://webnods.com/mian.html',
+    'https://gzshitongtianxia.com/mian.html',
 ];
 var otherUrls = [
 	'https://aicaola.github.io'
