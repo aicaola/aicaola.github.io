@@ -1,6 +1,6 @@
 var newestUrls = [
     'https://z4531.com/mian.html',
-    'https://zlbqw.com/iman.html',
+    'https://zlbqw.com/mian.html',
     'https://www.microspc.com/mian.html',
     'https://2sja.com/mian.html',
 ];
